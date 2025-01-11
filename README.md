@@ -5,4 +5,6 @@ Presentation for the [Dot Net North](https://www.meetup.com/DotNetNorth) '.NET C
 
 Presentation Link (to add)  
 
+![.NET 9 Breaking Chnages](dot-net-9-breaking-changes-banner.jpg)
+
 - content to do -  
